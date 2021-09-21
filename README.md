@@ -1,0 +1,1 @@
+Trata-se do mesmo projeto anterior (Calculadora usando Factory Functions), mas utilizando o Constructor Functions.
